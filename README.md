@@ -1,6 +1,6 @@
 # EyeExercise
 
-In this MIT Development course exercise, we display "eyes" that move on mouse direction. 
+In this MIT Development course exercise, we display "eyes" that move on mouse direction. There are 3 files : a index.html file that contains "2 eyes" in div/class, a css file for the style and a eye.js file. In the eye.js file for the eye to move.   
 
 ## How to run
 
